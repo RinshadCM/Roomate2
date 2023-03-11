@@ -17,7 +17,7 @@ import {
 }
   from 'mdb-react-ui-kit';
 
-const socket = io.connect("http://localhost:3001")
+const socket = io.connect("https://roomate2.onrender.com")
 
 function App() {
 
